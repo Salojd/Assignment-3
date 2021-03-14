@@ -21,7 +21,7 @@ GraphicsContext gc;
   
    // launch the application
 @Override
-   public void start(Stage stage)
+   public void start(Stage stage) throws Exception
    {
        // set title for the stage
        stage.setTitle("creating canvas");
